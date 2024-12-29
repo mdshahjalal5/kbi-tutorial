@@ -95,7 +95,7 @@ s+shift+k = move  up,
 
 ```
 
-# Keyd and Hyprland Configuration Guide
+Keyd and Hyprland Configuration Guide
 
 This document provides an overview of **keyboard remapping** using Keyd and **window management** in Hyprland. It explains key functionalities, shortcuts, and operations to enhance your productivity.
 
