@@ -48,5 +48,7 @@
 - **`x `** - close the current tab
 - **`shift-x `** - reopen the closed tab
 - **`gxx `** - close all tabs except the current tab
+- **`aa `** - go back in history
+- **`D (l hold d ) `** - go forward in history
 
 --w: 29/12/2024 11:34 PM Sun GMT+6 Sharifpur, Gazipur, Dhaka
