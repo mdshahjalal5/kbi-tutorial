@@ -27,9 +27,9 @@ caps + k = up arrow,
 
 ```
 
-# Keyd and Hyprland Configuration Guide
+# Keyd Configuration Guide
 
-This document provides an overview of **keyboard remapping** using Keyd and **window management** in Hyprland. It explains key functionalities, shortcuts, and operations to enhance your productivity.
+This document provides an overview of **keyboard remapping** using Keyd. It explains key functionalities, shortcuts, and operations to enhance your productivity.
 
 ---
 
