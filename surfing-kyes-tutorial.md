@@ -35,6 +35,7 @@
 - **`as`** - change scrolling focus
 - **`ai`** - open level1 batch 11 ph course
 - **`aj`** - open level1 batch 11 support fb group
+- **`sc`** - open chatgpt level1 batch 11 support fb group
 
 ## press **`at`** go to the tutorial page.
 
