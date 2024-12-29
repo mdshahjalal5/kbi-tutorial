@@ -22,3 +22,43 @@
 
 
 ```
+
+# Ranger File Manager Tutorial
+
+**Date:**  
+//w: 23/12/2024 08:22 AM Mon GMT+6 Sharifpur, Gazipur, Dhaka
+
+---
+
+### Instructions:
+
+1. **Open Ranger:**  
+   Type `r` then press `Enter`.
+
+2. **Navigate to the web2 location (web2 directory/path):**  
+   Press `xk`.
+
+3. **Create a new folder:**  
+   Press `xf`.
+
+4. **Open with VS Code:**  
+   Press `xx`.
+
+5. **Open with Nautilus (the default file manager):**  
+   Press `xo`.
+
+6. **Open with Google Chrome:**  
+   Press `xt`.
+
+7. **Rename the current folder or file:**  
+   Press `cw`.
+
+8. **Delete the current folder:**  
+   Press `dD`.
+
+9. **Copy the path/directory location:**  
+   Press `yp`.
+
+---
+
+**Note:** Practice these commands to enhance productivity and navigation using Ranger!
