@@ -8,6 +8,6 @@
 - **`+`** - go forward 180 second / 3 mnts.
 
 - **`shift+y`** - reset speed.(set speed into 1x)
-- **`\`** - set speed to 1.75x
+- **`\ (not /)`** - set speed to 1.75x
 
 ### --w: 29/12/2024 10:51 PM Sun GMT+6 Sharifpur, Gazipur, Dhaka
