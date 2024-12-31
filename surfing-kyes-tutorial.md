@@ -78,7 +78,7 @@
 
 ## surfing key session management
 
-- **`: `** - switch to the surfing key cmd(command) mode
+- **`: `** - switch to the surfing key cmd(command) mode (caps u = : or shift f3 = :)
 - **`createSession sessionName `** - create a new session with the name sessionName
 - **`openSession sessionName `** - open the sessionName session
 
